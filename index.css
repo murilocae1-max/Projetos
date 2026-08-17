@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 15px;
+    line-height: 1.5;
+}
+
+nav {
+    margin-bottom: 10px;
+}
+
+nav a {
+    display: inline-block;
+    border: 1px solid #999;
+    padding: 4px 12px;
+    margin-right: 4px;
+    color: blue;
+    text-decoration: none;
+}
+
+h1 {
+    display: block;
+    margin: 20px 0 10px;
+    font-size: 1.3em;
+}
+
+h2 {
+    display: block;
+    margin: 20px 0 10px;
+    font-size: 1.2em;
+}
+
+.Projeto {
+    display: inline-block;
+    width: 150px;
+    height: 120px;
+    border: 1px solid #999;
+    margin-right: -4px;
+    padding: 4px;
+    vertical-align: top;
+}
+
+p {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.Linguagem {
+    display: inline;
+    border: 1px solid #999;
+    padding: 0 4px;
+    color: rgb(1, 1, 8);
+}
+
+.Rodapé {
+    display: block;
+    border: 1px solid #999;
+    padding: 8px;
+    margin-top: 10px;
+}
